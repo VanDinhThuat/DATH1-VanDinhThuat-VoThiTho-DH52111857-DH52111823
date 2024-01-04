@@ -1,0 +1,21 @@
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\bin\Debug\Đồ Án Tin Học.exe.config
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\bin\Debug\Đồ Án Tin Học.exe
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\bin\Debug\Đồ Án Tin Học.pdb
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ Án Tin Học.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ_Án_Tin_Học.Form1.resources
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ_Án_Tin_Học.Properties.Resources.resources
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ Án Tin Học.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ Án Tin Học.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ Án Tin Học.exe
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ Án Tin Học.pdb
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ_Án_Tin_Học.formdangnhap.resources
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ_Án_Tin_Học.formđatphong.resources
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ_Án_Tin_Học.formmenu.resources
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ_Án_Tin_Học.formhoadon.resources
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ_Án_Tin_Học.khachhang.resources
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ_Án_Tin_Học.formthongke.resources
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\bin\Debug\itextsharp.dll
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\bin\Debug\itextsharp.xml
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ Án Tin Học.csproj.CopyComplete
+C:\Users\DELL\source\repos\Đồ Án Tin Học\Đồ Án Tin Học\obj\Debug\Đồ_Án_Tin_Học.formbill.resources
